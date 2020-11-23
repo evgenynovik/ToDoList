@@ -1,0 +1,19 @@
+body {
+	background: springgreen;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	height: 40px;
+}
+
+h1, h2, form, h3, div, p, td {
+	text-align: center;
+}
+
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
